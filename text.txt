@@ -1,0 +1,23 @@
+<html lang="de">
+	<head>
+		<title>index</title>
+		<!doctype html>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<h1>Übersicht der anderen Seiten</h1>
+			<h2>1. und 2. Link</h2>
+				<ul>
+					<li>
+						<a href = "http://amazon.de" title = "Weiter zu Seite1" target="_blank">
+						<i>Hier klicken</i>
+						</a>
+					</li>
+					<li>
+						<a href = "http://www.google.com" title = "Weiter zu Seite2" target="_blank">
+						Hier klicken
+						</a>
+					</li>
+				</ul>
+	</body>
